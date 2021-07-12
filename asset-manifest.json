@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/it-incubator-friday-project/static/css/main.8fb105a3.chunk.css",
-    "main.js": "/it-incubator-friday-project/static/js/main.4186233f.chunk.js",
-    "main.js.map": "/it-incubator-friday-project/static/js/main.4186233f.chunk.js.map",
-    "runtime-main.js": "/it-incubator-friday-project/static/js/runtime-main.98af2781.js",
-    "runtime-main.js.map": "/it-incubator-friday-project/static/js/runtime-main.98af2781.js.map",
-    "static/js/2.39fa394a.chunk.js": "/it-incubator-friday-project/static/js/2.39fa394a.chunk.js",
-    "static/js/2.39fa394a.chunk.js.map": "/it-incubator-friday-project/static/js/2.39fa394a.chunk.js.map",
-    "static/js/3.2b428153.chunk.js": "/it-incubator-friday-project/static/js/3.2b428153.chunk.js",
-    "static/js/3.2b428153.chunk.js.map": "/it-incubator-friday-project/static/js/3.2b428153.chunk.js.map",
+    "main.css": "/it-incubator-friday-project/static/css/main.16c860da.chunk.css",
+    "main.js": "/it-incubator-friday-project/static/js/main.206f7cdf.chunk.js",
+    "main.js.map": "/it-incubator-friday-project/static/js/main.206f7cdf.chunk.js.map",
+    "runtime-main.js": "/it-incubator-friday-project/static/js/runtime-main.b0cbf066.js",
+    "runtime-main.js.map": "/it-incubator-friday-project/static/js/runtime-main.b0cbf066.js.map",
+    "static/js/2.be8c15da.chunk.js": "/it-incubator-friday-project/static/js/2.be8c15da.chunk.js",
+    "static/js/2.be8c15da.chunk.js.map": "/it-incubator-friday-project/static/js/2.be8c15da.chunk.js.map",
+    "static/js/3.27c86df9.chunk.js": "/it-incubator-friday-project/static/js/3.27c86df9.chunk.js",
+    "static/js/3.27c86df9.chunk.js.map": "/it-incubator-friday-project/static/js/3.27c86df9.chunk.js.map",
     "index.html": "/it-incubator-friday-project/index.html",
-    "static/css/main.8fb105a3.chunk.css.map": "/it-incubator-friday-project/static/css/main.8fb105a3.chunk.css.map",
-    "static/js/2.39fa394a.chunk.js.LICENSE.txt": "/it-incubator-friday-project/static/js/2.39fa394a.chunk.js.LICENSE.txt"
+    "static/css/main.16c860da.chunk.css.map": "/it-incubator-friday-project/static/css/main.16c860da.chunk.css.map",
+    "static/js/2.be8c15da.chunk.js.LICENSE.txt": "/it-incubator-friday-project/static/js/2.be8c15da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.98af2781.js",
-    "static/js/2.39fa394a.chunk.js",
-    "static/css/main.8fb105a3.chunk.css",
-    "static/js/main.4186233f.chunk.js"
+    "static/js/runtime-main.b0cbf066.js",
+    "static/js/2.be8c15da.chunk.js",
+    "static/css/main.16c860da.chunk.css",
+    "static/js/main.206f7cdf.chunk.js"
   ]
 }
