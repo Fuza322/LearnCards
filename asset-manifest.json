@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/it-incubator-friday-project/static/css/main.a0654179.chunk.css",
-    "main.js": "/it-incubator-friday-project/static/js/main.5b47ff91.chunk.js",
-    "main.js.map": "/it-incubator-friday-project/static/js/main.5b47ff91.chunk.js.map",
+    "main.js": "/it-incubator-friday-project/static/js/main.e22beca7.chunk.js",
+    "main.js.map": "/it-incubator-friday-project/static/js/main.e22beca7.chunk.js.map",
     "runtime-main.js": "/it-incubator-friday-project/static/js/runtime-main.09f02481.js",
     "runtime-main.js.map": "/it-incubator-friday-project/static/js/runtime-main.09f02481.js.map",
     "static/js/2.7bb37d95.chunk.js": "/it-incubator-friday-project/static/js/2.7bb37d95.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.09f02481.js",
     "static/js/2.7bb37d95.chunk.js",
     "static/css/main.a0654179.chunk.css",
-    "static/js/main.5b47ff91.chunk.js"
+    "static/js/main.e22beca7.chunk.js"
   ]
 }
